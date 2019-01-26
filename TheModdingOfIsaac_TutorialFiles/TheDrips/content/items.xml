@@ -1,0 +1,8 @@
+﻿<items gfxroot="gfx/items/" version="1">
+    <passive cache="damage" name="Saline Drip" description="A little salty" gfx="Drip01-Saline.png" />
+    <passive cache="shotspeed" name="Potassium Drip" description="Smells like bananas" gfx="Drip02-Potassium.png" />
+    <passive cache="speed range" name="Glucose Drip" description="Sweet!" gfx="Drip03-Glucose.png" />
+    <passive cache="luck" name="Dewy Drip" description="Cupid's companion" gfx="Drip05-Dew.png" />
+    <passive cache="flying" name="Helium Drip" description="Somewhat fizzy" gfx="Drip06-Helium.png" />
+    <passive cache="damage" name="Suspicious Drip" description="It might be alive" gfx="Drip07-Sludge.png" />
+</items>
