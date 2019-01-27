@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TheModdingOfIsaac_TutorialFiles",
+    "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle\\content",
+    "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle\\resources",
+    "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle\\resources\\gfx",
+    "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle\\resources\\gfx\\items",
+    "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle\\resources\\gfx\\items\\collectibles"
   ],
+  "SelectedNode": "\\TheModdingOfIsaac_TutorialFiles\\GreenCandle",
   "PreviewInSolutionExplorer": false
 }
