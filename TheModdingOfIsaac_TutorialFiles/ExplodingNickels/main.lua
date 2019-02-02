@@ -1,6 +1,7 @@
 local ExplodingNickelsMod = RegisterMod("ExplodingNickels", 1)
 local game = Game()
 
+
 local ExplodingNickels = {
 	QUANTITY = 5,
 	RADIUS = 8,
@@ -10,6 +11,8 @@ local ExplodingNickels = {
 	Target = nil
 }
 
+
+ -- If there are no exploding nickles, yet, check the room for a sticky nickle to change
 function ExplodingNickels:onUpdate()
 	if ExplodingNickels.Target == nil then
 		local roomEntities = Isaac.GetRoomEntities()
