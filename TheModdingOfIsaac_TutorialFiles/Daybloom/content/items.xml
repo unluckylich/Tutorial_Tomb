@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+  <passive cache="" name="Daybloom" description="Peaceful but odd" gfx="daybloom.png" maxhearts="2" hearts="2" soulhearts="2" blackhearts="2"/>
+</items>
